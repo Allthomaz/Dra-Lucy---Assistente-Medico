@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Dra Lucy - Assistente",
+  "description": "Uma assistente de IA para gerenciar consultas médicas e gerar documentos para pacientes, construída com React e Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
